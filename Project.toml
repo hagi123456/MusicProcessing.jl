@@ -1,0 +1,13 @@
+name = "MusicProcessing"
+uuid = "1b8316d5-81d4-5f6f-a99f-6dc343b691d6"
+git-tree-sha1 = "84a25a1ca4132e4d29e82157321000c1fd2c8168"
+repo-rev = "master"
+version = "0.0.0"
+authors = ["Jong Wook Kim"]
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+PortAudio = "80ea8bcb-4634-5cb3-8ee8-a132660d1d2d"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+SampledSignals = "bd7594eb-a658-542f-9e75-4c4d8908c167"
